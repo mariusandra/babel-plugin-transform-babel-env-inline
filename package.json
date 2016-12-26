@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-transform-node-env-inline",
+  "name": "babel-plugin-transform-babel-env-inline",
   "version": "0.0.1",
   "description": "Inline the `BABEL_ENV` environment variable and evaluate it if possible",
   "homepage": "https://github.com/mariusandra/babel-plugin-transform-babel-env-inline#readme",
