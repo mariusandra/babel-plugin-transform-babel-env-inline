@@ -1,0 +1,16 @@
+{
+  "name": "babel-plugin-transform-node-env-inline",
+  "version": "0.0.1",
+  "description": "Inline the `BABEL_ENV` environment variable and evaluate it if possible",
+  "homepage": "https://github.com/mariusandra/babel-plugin-transform-babel-env-inline#readme",
+  "repository": "https://github.com/mariusandra/babel-plugin-transform-babel-env-inline",
+  "bugs": "https://github.com/mariusandra/babel-plugin-transform-babel-env-inline/issues",
+  "author": "amasad",
+  "license": "MIT",
+  "main": "src/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
